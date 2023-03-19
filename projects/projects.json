@@ -5,7 +5,7 @@
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://www.linkedin.com/vis",
       "code": "https://github.com/Vishalgethub/notystack-android"
     }
   },
@@ -15,7 +15,8 @@
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view":"https://www.linkedin.com/in/vishalwebdev"
+      ,
       "code": "https://github.com/Vishalgethub/sppu-prep-android"
     }
   },
@@ -25,7 +26,8 @@
     "image": "newsboxandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view":"https://www.linkedin.com/in/vishalwebdev",
+
       "code": "https://github.com/Vishalgethub/newsbox-android"
     }
   },
@@ -35,7 +37,8 @@
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view":"https://www.linkedin.com/in/vishalwebdev" ,
+
       "code": "https://github.com/Vishalgethub/weatherly-android"
     }
   },
