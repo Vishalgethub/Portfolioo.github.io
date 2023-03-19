@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Por";
+            document.title = "Projects | Portfolio Vishal";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
