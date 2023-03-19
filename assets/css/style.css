@@ -17,13 +17,13 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: var(--primary-color);
   font-family: "Poppins", sans-serif;
 }
 
 *::selection {
   background: #2b3dda;
-  color: #fff;
+  color: white;
 }
 
 html {
@@ -58,6 +58,31 @@ html::-webkit-scrollbar-thumb {
 }
 /* pre loader end */
 
+/* dark mode starts*/
+:root{
+  --primary-color:#edf2fc;
+  --secondary--color:#212121;
+}
+
+.dark-theme{
+  --primary-color:#edf2fc;
+  --secondary--color:#212121;
+}
+
+#darkicon {
+  width: 30px;
+  cursor: pointer;
+  margin-left: 50px;
+}
+
+nav ul {
+  flex: 1;
+  text-align: right;
+}
+
+
+/* dark mode ends */
+
 /* navbar starts */
 header {
   position: fixed;
@@ -70,7 +95,7 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  background-color: var(--primary--color);
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
@@ -98,6 +123,9 @@ header .logo i {
 header .logo:hover {
   color: #fc8c05;
 }
+
+
+
 header .navbar ul {
   list-style: none;
   display: flex;
